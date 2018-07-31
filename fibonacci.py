@@ -4,6 +4,7 @@ j = 1
 k = 0
 fib = 0
 print("Zmiana2")
+print("print-function")
 number = int(input("Hown many numbers do you want to display?"))
 print("Fibonnaci sequance:")
 while(i < number):
